@@ -13,6 +13,9 @@
 
 - This project executes a simple *Hangman* game in Python. It involves creating a list of fruits, randomly selecting a word from the list, and then prompting the player to guess the word by entering single letters. Integrated input validation checks ensure that the player only inputs a single alphabetical character at a time.
 
+- The project aims...
+
+- Throughout this experience I have learned...
 
 
 ### Installation
