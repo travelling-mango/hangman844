@@ -11,7 +11,7 @@
 
 - *Hangman* is a classic game involding two players - one player thinks of a word, and the other player tries to guess that word within a certain number of attempts.
 
-- This project executes a simple *Hangman* game in Python. It involves creating a list of fruits, randomly selecting a word from the list, and then prompting the player to guess the word by entering one letter at a time. Integrated input validation checks ensure that the player only inputs a single alphabetical character at a time, and a display function improves the user experience by showing which letters have been guessed correctly.
+- This project executes a simple *Hangman* game in Python. It involves creating a list of fruits, randomly selecting a word from the list, and then prompting the player to guess the word by entering one letter at a time. Integrated input validation checks ensure that the player only inputs a single alphabetical character at a time, and a user friendly interface improves the player's experience by showing which letters have been guessed correctly.
 
 - The project aims to exhibit key skills and concepts in Python which include, but are not limited to: functions; for loops, iteration, and control flow;  classes; user-input handling; OOP (object-oriented programming); game logic; error handling; and debugging.
 
