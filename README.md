@@ -21,13 +21,19 @@
 ### Installation
 To run the game:
 
-1. Clone the game repository
+1. Clone the game repository.
    ```
    git clone https://github.com/travelling-mango/hangman844.git
    ```
-3. Navigate to the game repository.
-4. Run the game script.
-5. Enjoy!
+2. Navigate to the game directory.
+   ```
+   cd hangman844
+   ```
+3. Run the game.
+   ```
+   python hangman_game.py
+   ```
+4. Enjoy!
 
 ### Usage
 
