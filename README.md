@@ -20,7 +20,12 @@
 
 ### Installation
 To run the game:
-1. Clone the repository and 
+
+1. Clone the game repository.
+
+2. Navigate to the game repository.
+3. Run the game script.
+4. Enjoy!
 
 ### Usage
 
