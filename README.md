@@ -33,7 +33,6 @@ To install the game:
    ```
    python3 hangman_game.py
    ```
-4. Enjoy!
 
 ### Usage
 To play the game:
