@@ -19,7 +19,7 @@
 
 
 ### Installation
-To run the game:
+To install the game:
 
 1. Clone the game repository.
    ```
@@ -31,12 +31,24 @@ To run the game:
    ```
 3. Run the game.
    ```
-   python hangman_game.py
+   python3 hangman_game.py
    ```
 4. Enjoy!
 
 ### Usage
+To play the game:
+
+1. You'll be prompted to guess a letter.
+2. Enter a single alphabetical character.
+3. If the letter is in the word, the game will reveal its position. If not, you'll lose a life. You have 5 lives.
+4. The game ends when you either guess the word or run out of lives.
 
 ### File Structure
 
+- `README.md`: Project documentation.
+- `hangman_game.py`: Python script containing the Hangman game code.
+
 ### License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+
